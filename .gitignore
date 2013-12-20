@@ -18,3 +18,4 @@ tmp
 bundler_stubs/*
 binstubs/*
 bin/*
+.ruby-version
