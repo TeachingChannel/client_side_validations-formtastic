@@ -8,4 +8,4 @@ elsif RUBY_VERSION < '1.9'
   gem 'minitest'
 end
 
-gem 'client_side_validations', github: 'bcardarella/client_side_validations', ref: '4-0-beta'
+gem 'client_side_validations', github: 'substantial/client_side_validations', ref: 'support-rails-4.1'
