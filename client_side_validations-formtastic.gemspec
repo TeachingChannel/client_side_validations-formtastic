@@ -15,9 +15,9 @@ Gem::Specification.new do |gem|
 
   # check gemfile for specific client_side_validation 4-0-beta
   gem.add_dependency 'client_side_validations', '>= 3.2.0'
-  gem.add_dependency 'formtastic', '~> 2.3.0.rc2'
+  gem.add_dependency 'formtastic', '~> 3.1.0'
 
-  gem.add_development_dependency 'rails', '~> 3.2.0'
+  gem.add_development_dependency 'rails', '>= 4.1.0'
   gem.add_development_dependency 'mocha'
   gem.add_development_dependency 'm'
 
